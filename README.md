@@ -1,4 +1,4 @@
-# Fisch Macro v11 Fork
+# Fisch Macro v11 Fork (Rfisch-v1)
 
 This is a fork of the **Fisch Macro v11**, a powerful and customizable AutoHotkey (AHK) script designed for automating fishing tasks in Roblox. The script is optimized for efficiency and includes various features to enhance your fishing experience.
 
